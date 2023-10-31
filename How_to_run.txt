@@ -1,0 +1,1 @@
+ python .\pdf_downloder.py dollar_rate.pdf 20
